@@ -8,10 +8,9 @@ PodcastDiscovery is a decentralized platform for podcast creators and listeners,
 
 ## Contract Address
 0x2fbe5ef64ad5f63021aa8883B7f633092Dcf2a31
+![Uploading Screenshot 2024-12-21 143851.png…]()
 
 
-**Example Contract Address:**
-`0xYourContractAddressHere`
 
 ## Project Vision
 The vision of PodcastDiscovery is to create an ecosystem where podcast creators are incentivized for their content, and listeners are rewarded for their engagement. This platform will provide a new way to monetize podcasting while fostering a community that values both creators and listeners. The project aims to empower content creators and listeners, providing a decentralized solution for the podcasting industry.
