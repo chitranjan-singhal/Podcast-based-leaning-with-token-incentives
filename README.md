@@ -8,7 +8,8 @@ PodcastDiscovery is a decentralized platform for podcast creators and listeners,
 
 ## Contract Address
 0x2fbe5ef64ad5f63021aa8883B7f633092Dcf2a31
-![Uploading Screenshot 2024-12-21 143851.png…]()
+![image](https://github.com/user-attachments/assets/0210770a-76ac-4caf-a29b-323bbff6c227)
+
 
 
 
